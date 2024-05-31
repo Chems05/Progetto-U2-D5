@@ -1,0 +1,196 @@
+body{
+    margin: auto;
+    font-family: "Spectral", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+}
+
+
+.navText{
+    display: flex;
+    justify-content: flex-end;
+margin-right: 250px;
+align-items: baseline;
+}
+
+.navBar p{
+    margin-right: 30px;
+}
+
+.navBar{
+    display: flex;
+    justify-content: flex-end;
+padding-top: 25px;
+padding-bottom: 20px;
+border: 10px;
+border-bottom: 2px solid black;
+background-color: #ffc017;
+position: sticky;
+	top: 0;
+}
+
+.Logo{
+margin-right: 50rem;
+}
+
+.btnNav{
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 6.2rem;
+    border-radius: 50px;
+    border-color: rgba(0, 0, 0, 0);
+}
+
+h1{
+font-size: 8rem;
+margin-top: 6rem;
+margin-bottom: 20px;
+width: 700px;
+}
+
+.contentHeader{
+    font-size: 24px;
+    margin-right:250px ;
+margin-left:250px ;
+}
+
+.btnCont{
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 11rem;
+    border-radius: 50px;
+    margin-top: 50px;
+    
+}
+
+.secondHeader{
+    display: flex;
+    justify-content: space-between;
+    background-color: #ffc017;
+    border-bottom: 2px solid black;
+    
+}
+
+.svg{
+    background-color: ffc017;
+    height: 600px;
+    width: 900px;
+}
+
+main{
+    font-family: "Noto Sans", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 16px;
+
+}
+
+
+.primoBlocco{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding-bottom: 60px;
+padding-top: 80px;
+align-items: baseline;
+}
+
+.secondoBlocco{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: baseline;
+}
+
+.firstUser,
+.secondUser,
+.thirdUser,
+.fourthUser,
+.fifthUser,
+.sixthUser{
+    
+ }
+
+
+
+.numberT{
+    font-size: 30px;
+    
+}
+
+.name,
+.text,
+.h2{
+    margin-bottom: 10px;
+}
+
+h2{
+color: grey;
+padding-top: 10px ;
+}
+
+.name{
+    font-weight: 600;
+}
+
+.text{
+    font-weight: 900;
+}
+
+.name img{
+border-radius: 100px;
+height: 25px;
+margin-right: 7px;
+}
+
+.post h2{
+
+    padding-bottom: 60px ;
+    font-size: small;
+}
+
+.post{
+display: flex;
+flex-direction: column;
+}
+
+.post button{
+
+  border-radius: 50px;
+  border-color: #00050c00;
+  color: grey;
+}
+
+.foto{
+    float: right;
+    height: 150px;
+    display: flex;
+    margin-left: 50px;
+    margin-bottom: 80px;
+}
+
+.contenitore{
+    display: flex;
+    justify-content: space-around;
+}
+
+.barraSelezione button{
+height: 32px;
+margin: 3px;
+background-color: white;
+border-radius: 4px;
+border-color: rgba(161, 142, 142, 0.342);
+border-width: 1px;
+color: rgb(48, 47, 47);
+}
+
+.commento1{
+padding-top: 90px;
+}
+
+.barraSelezione p{
+    padding-bottom: 14px;
+}
